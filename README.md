@@ -5,6 +5,7 @@
 - 自动签到：GitHub Actions 每天 24 点
 - 签到结果通知：Server 酱（可选）、企业微信（可选）、钉钉（可选）
 - CSDN 文章链接：https://itrhx.blog.csdn.net/article/details/117375471
+- 更多爬虫项目：https://github.com/TRHX/Python3-Spider-Practice
 
 # 注意事项
 
