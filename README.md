@@ -1,5 +1,13 @@
 # CSDN Sign In - CSDN 自动签到抽奖
 
+---
+
+# **2021-08-18 更新，目前 CSDN 取消了网页端的签到功能，程序暂时无法使用！！！**
+
+![](https://i.loli.net/2021/08/18/2e6AyPgUjbQkJpa.png)
+
+---
+
 - 语言：Python
 - 功能：签到、抽奖（可选）
 - 自动签到：GitHub Actions 每天 24 点
